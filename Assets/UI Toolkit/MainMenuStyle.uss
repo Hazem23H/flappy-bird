@@ -1,0 +1,25 @@
+.header {
+    font-size: 63px;
+    color: rgb(255, 255, 255);
+    -unity-font: url('project://database/Assets/ChelaOne-Regular.ttf?fileID=12800000&guid=7abf10ef33924bb498999d41bc08c3d3&type=3#ChelaOne-Regular');
+    -unity-font-definition: none;
+    margin-top: 100px;
+}
+
+.button {
+    font-size: 26px;
+    width: 220px;
+    height: 60px;
+    align-items: stretch;
+    justify-content: flex-start;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-image: url('project://database/Assets/2D%20Casual%20UI/Sprite/GUI.png?fileID=21300022&guid=1eaee135ce037439d925cee5e41ce026&type=3#GUI_11');
+    color: rgb(0, 0, 0);
+    -unity-font-style: bold;
+    margin-top: 50px;
+    -unity-font: url('project://database/Assets/ChelaOne-Regular.ttf?fileID=12800000&guid=7abf10ef33924bb498999d41bc08c3d3&type=3#ChelaOne-Regular');
+    -unity-font-definition: none;
+}
